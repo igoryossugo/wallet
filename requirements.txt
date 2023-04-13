@@ -1,1 +1,3 @@
 aiohttp==3.8.4
+PyPDF2==3.0.1
+ramos==1.4.0
